@@ -1,6 +1,6 @@
 # IQ Modulator Project
 
-Demo : https://www.youtube.com/shorts/ltxoOfist9Q?si=4aEx9s9gxlmqng2q 
+Demo: https://www.youtube.com/shorts/ltxoOfist9Q?si=4aEx9s9gxlmqng2q 
 
 
 ##  Project Images
@@ -14,10 +14,7 @@ Demo : https://www.youtube.com/shorts/ltxoOfist9Q?si=4aEx9s9gxlmqng2q
 ### PCB Layout (Bottom Layer / 3D)
 <img width="1749" height="656" alt="PCB Bottom" src="https://github.com/user-attachments/assets/ded9163c-c761-4a60-bc82-9ec7187e2d1e" />
 
-### Final Board 
+### Teamwork Award
 <img width="894" height="671" alt="Assembled" src="https://github.com/user-attachments/assets/6ea95655-939c-412e-bbcf-f8550808272f" />
 
-### Team Presentation
-<img width="600" alt="Team" src="https://github.com/user-attachments/assets/8f55031d-9e06-481c-b226-8d2813030d14.png" />
 
----
