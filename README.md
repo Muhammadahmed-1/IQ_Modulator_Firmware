@@ -6,6 +6,7 @@ Demo: https://www.youtube.com/shorts/ltxoOfist9Q?si=4aEx9s9gxlmqng2q
 
 ### Schematic
 <img width="1014" height="671" alt="Schematic" src="https://github.com/user-attachments/assets/b7fa58d7-75e3-40ba-9732-535211df2229" />
+
 ### PCB 
 <img width="503" height="671" alt="image" src="https://github.com/user-attachments/assets/b8d5b992-13be-48a7-9b41-6067724d7043" />
 
